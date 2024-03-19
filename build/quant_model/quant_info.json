@@ -1,0 +1,29 @@
+{
+  "param":
+  {
+    "CNN::network.0.weight":[[8,7]],
+    "CNN::network.0.bias":[[8,8]],
+    "CNN::network.3.weight":[[8,8]],
+    "CNN::network.3.bias":[[8,6]],
+    "CNN::network.6.weight":[[8,7]],
+    "CNN::network.6.bias":[[8,6]],
+    "CNN::network.9.weight":[[8,7]],
+    "CNN::network.9.bias":[[8,4]]
+  },
+  "output":
+  {
+    "CNN::nndct_input_0":[[8,6]],
+    "CNN::nndct_relu_2":[[8,6]],
+    "CNN::nndct_relu_4":[[8,5]],
+    "CNN::nndct_relu_6":[[8,4]],
+    "CNN::nndct_conv2d_7":[[8,4]]
+  },
+  "input":
+  {
+
+  },
+  "fast_finetuned":false,
+  "bias_corrected":true,
+  "version":"3.5.0+60df3f1+torch1.13.1",
+  "graph_md5":"c8ed6874e0a8ab2da09bfe754df18a00"
+}
